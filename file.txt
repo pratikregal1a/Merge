@@ -1,5 +1,2 @@
 echo "this is it"
 echo "hello"
-echo "hey"
-echo "had"
-
