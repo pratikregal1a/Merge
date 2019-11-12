@@ -1,4 +1,7 @@
 echo "this is it"
 echo "hello"
+<<<<<<< HEAD
 echo "hey"
 echo ""lw
+=======
+>>>>>>> cdt
