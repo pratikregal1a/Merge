@@ -1,4 +1,4 @@
-echo "this is it"
+hekecho "this is it"
 echo "hello"
 <<<<<<< HEAD
 HEecho "hey"
