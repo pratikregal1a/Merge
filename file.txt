@@ -1,0 +1,9 @@
+hekecho "this is it"
+echo "hello"
+<<<<<<< HEAD
+HEecho "hey"
+echo ""lw
+=======
+echo "this is it"
+>>>>>>> 5ecad943fe0a3401d3d3e216b22e7abbc98c8882
+hey this
